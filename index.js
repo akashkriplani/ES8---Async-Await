@@ -33,7 +33,7 @@ const getData = async function() {
   }
 };
 
-// getData();
+getData();
 
 // ES 9 - For await of
 
@@ -45,4 +45,4 @@ const getData2 = async function() {
   }
 }
 
-// getData2();
+getData2();
